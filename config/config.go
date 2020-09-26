@@ -7,7 +7,7 @@ import (
 )
 
 var Config models.Config
-var DbConnect models.DbConnectiontt
+var DbConnect models.DbConnectionsjhjk
 func Init() {
 
 	viper.SetConfigName("config")
