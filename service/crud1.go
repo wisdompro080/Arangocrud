@@ -12,7 +12,7 @@ import (
 	//log "github.com/sirupsen/logrus"
 	"test/config"
 	)
-var DbConnect models.DbConnection
+var DbConnect models.DbConnectionintj
 func C()  {
 	DbConnect.Col,DbConnect.Db =DbConnection()
 }
